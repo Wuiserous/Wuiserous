@@ -1,11 +1,11 @@
-<h1 align="center">Aman Singh</h1>
+<h1 align="center">Wuis</h1>
 
 <p align="center">
   AI Systems Developer • Voice AI Engineer • Futuristic Interfaces
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Rocky+AI;Voice-First+Desktop+Assistants;Emotionally+Intelligent+Interfaces;Real-Time+AI+Systems;Human-Like+AI+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Building+Rocky+AI;Voice-First+Desktop+Assistants;Emotionally+Intelligent+Interfaces;Real-Time+AI+Systems;Human-Like+AI+Experiences" />
 </p>
 
 <p align="center">
