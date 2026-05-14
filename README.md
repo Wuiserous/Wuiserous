@@ -91,18 +91,6 @@ Experimental AI systems and intelligent automation tooling.
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuiserous&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuiserous&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
