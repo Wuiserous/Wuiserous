@@ -81,7 +81,7 @@ Rocky AI is a real-time desktop AI companion designed for natural human interact
 
 # Selected Projects
 
-## Rocky AI
+## [Rocky AI](https://github.com/Wuiserous/rocky-pet-updates)
 Real-time desktop AI companion with memory, voice interaction, and emotional intelligence.
 
 ---
