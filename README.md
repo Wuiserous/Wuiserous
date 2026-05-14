@@ -94,9 +94,11 @@ Experimental AI systems and intelligent automation tooling.
 # GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wuiserous&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuiserous&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuiserous&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuiserous&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
 </p>
 
 ---
