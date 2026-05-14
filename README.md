@@ -86,18 +86,10 @@ Real-time desktop AI companion with memory, voice interaction, and emotional int
 
 ---
 
-## TaskFlow AI
-AI-powered productivity and task management system with intelligent workflow generation.
-
----
-
-## Cleaver AI
+## [Cleaver AI](https://github.com/Wuiserous/Cleaver.ai)
 Experimental AI systems and intelligent automation tooling.
 
 ---
-
-## Portfolio
-Interactive developer portfolio with cinematic UI and modern web animations.
 
 ---
 
